@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+checkpoints/
+benchmark_results.json
+benchmark_results.csv
+.DS_Store
